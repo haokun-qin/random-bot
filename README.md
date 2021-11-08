@@ -2,7 +2,7 @@
 
 Random-bot is a discord bot that contains 8 functions that can be called:
 
-“?random wisdom” returns a random quote\n
+“?random wisdom” returns a random quote
 “?random cb [a] [b] [c]” returns a message choosing from [a] [b] [c] …
 “?random up to [a]” returns an integer from 0 up to [a]
 “?random name [user a]” renames [user a] to a randomly generated username
